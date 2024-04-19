@@ -1,0 +1,10 @@
+D:\stars\C# Lecture Tasks\Lecture 07 Takehome\Lecture 07 Takehome\bin\Debug\Lecture 07 Takehome.exe.config
+D:\stars\C# Lecture Tasks\Lecture 07 Takehome\Lecture 07 Takehome\bin\Debug\Lecture 07 Takehome.exe
+D:\stars\C# Lecture Tasks\Lecture 07 Takehome\Lecture 07 Takehome\bin\Debug\Lecture 07 Takehome.pdb
+D:\stars\C# Lecture Tasks\Lecture 07 Takehome\Lecture 07 Takehome\obj\Debug\Lecture 07 Takehome.csproj.AssemblyReference.cache
+D:\stars\C# Lecture Tasks\Lecture 07 Takehome\Lecture 07 Takehome\obj\Debug\Lecture_07_Takehome.Form1.resources
+D:\stars\C# Lecture Tasks\Lecture 07 Takehome\Lecture 07 Takehome\obj\Debug\Lecture_07_Takehome.Properties.Resources.resources
+D:\stars\C# Lecture Tasks\Lecture 07 Takehome\Lecture 07 Takehome\obj\Debug\Lecture 07 Takehome.csproj.GenerateResource.cache
+D:\stars\C# Lecture Tasks\Lecture 07 Takehome\Lecture 07 Takehome\obj\Debug\Lecture 07 Takehome.csproj.CoreCompileInputs.cache
+D:\stars\C# Lecture Tasks\Lecture 07 Takehome\Lecture 07 Takehome\obj\Debug\Lecture 07 Takehome.exe
+D:\stars\C# Lecture Tasks\Lecture 07 Takehome\Lecture 07 Takehome\obj\Debug\Lecture 07 Takehome.pdb
