@@ -1,0 +1,10 @@
+D:\stars\C# Lecture Tasks\Lecture 06 Task01\Lecture 06 Task01\bin\Debug\Lecture 06 Task01.exe.config
+D:\stars\C# Lecture Tasks\Lecture 06 Task01\Lecture 06 Task01\bin\Debug\Lecture 06 Task01.exe
+D:\stars\C# Lecture Tasks\Lecture 06 Task01\Lecture 06 Task01\bin\Debug\Lecture 06 Task01.pdb
+D:\stars\C# Lecture Tasks\Lecture 06 Task01\Lecture 06 Task01\obj\Debug\Lecture 06 Task01.csproj.AssemblyReference.cache
+D:\stars\C# Lecture Tasks\Lecture 06 Task01\Lecture 06 Task01\obj\Debug\Lecture_06_Task01.Form1.resources
+D:\stars\C# Lecture Tasks\Lecture 06 Task01\Lecture 06 Task01\obj\Debug\Lecture_06_Task01.Properties.Resources.resources
+D:\stars\C# Lecture Tasks\Lecture 06 Task01\Lecture 06 Task01\obj\Debug\Lecture 06 Task01.csproj.GenerateResource.cache
+D:\stars\C# Lecture Tasks\Lecture 06 Task01\Lecture 06 Task01\obj\Debug\Lecture 06 Task01.csproj.CoreCompileInputs.cache
+D:\stars\C# Lecture Tasks\Lecture 06 Task01\Lecture 06 Task01\obj\Debug\Lecture 06 Task01.exe
+D:\stars\C# Lecture Tasks\Lecture 06 Task01\Lecture 06 Task01\obj\Debug\Lecture 06 Task01.pdb
