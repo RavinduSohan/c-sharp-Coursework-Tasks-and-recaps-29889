@@ -1,0 +1,7 @@
+D:\stars\C# Lecture Tasks\Lecture 02 Task 01\Lecture 02 Task 01\bin\Debug\Lecture 02 Task 01.exe.config
+D:\stars\C# Lecture Tasks\Lecture 02 Task 01\Lecture 02 Task 01\bin\Debug\Lecture 02 Task 01.exe
+D:\stars\C# Lecture Tasks\Lecture 02 Task 01\Lecture 02 Task 01\bin\Debug\Lecture 02 Task 01.pdb
+D:\stars\C# Lecture Tasks\Lecture 02 Task 01\Lecture 02 Task 01\obj\Debug\Lecture 02 Task 01.csproj.AssemblyReference.cache
+D:\stars\C# Lecture Tasks\Lecture 02 Task 01\Lecture 02 Task 01\obj\Debug\Lecture 02 Task 01.csproj.CoreCompileInputs.cache
+D:\stars\C# Lecture Tasks\Lecture 02 Task 01\Lecture 02 Task 01\obj\Debug\Lecture 02 Task 01.exe
+D:\stars\C# Lecture Tasks\Lecture 02 Task 01\Lecture 02 Task 01\obj\Debug\Lecture 02 Task 01.pdb
